@@ -33,7 +33,8 @@ while True:
             for i in range(10):
                 print("Enviando e-mail de ALERTA!")
             try:
-                email_send('ALARME ATIVADO! Possível intruso no perímetro!', 'O sensor detectou um movimento acima do normal!', '###')
+                email_send("ALARME ATIVADO! Possível intruso no perímetro!", "O sensor detectou um movimento acima do normal!", "###")
+                print("Email enviado com sucesso!")
             except:
                 print("Erro ao enviar o e-mail!")
             time.sleep(5)
