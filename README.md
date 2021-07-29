@@ -10,7 +10,7 @@ Esse projeto foi inteiramente produzido por Pedro Salviano Santos e todos os dir
 ## Objetivos deste projeto
 Este projeto possui como principal foco e intuito a simulação/criação de um sistema de segurança simples e DIY ("Faça-você-mesmo"), com uma *feature* de notificação ao usuário por e-mail.
 
-Uma explicação geral e análise mais profunda do código disponível neste vídeo: [Documentação do Sistema de Segurança - HC-SR04 + notificação por e-mail.]()
+Uma explicação geral e análise mais profunda do código disponível neste vídeo: [Documentação do Sistema de Segurança - HC-SR04 + notificação por e-mail.](https://youtu.be/MY-hK56yuso)
 
 __É MUITO IMPORTANTE QUE NENHUM OBJETO FIQUE À MENOS DE 80cm DA PARTE FRONTAL DO SENSOR, JÁ QUE ESTÁ É A DISTÂNCIA DE ATIVAÇÃO MÍNIMA PARA O ALARME!__
 
@@ -74,6 +74,6 @@ Chegando aqui e concluindos todos os passos, parabéns! Você instalou tudo com 
 
 A utilização é bem simples, basta montar o circuito e posicionar o sensor, agora abra o console e rode o script python, com isso feito *TODO E QUALQUER OBJETO QUE PASSE À MENOS DE 80CM DO SENSOR SERÁ REPORTADO COMO OBSTÁCULO*, __significando assim que ele detectará uma presença, enviando o alerta e tocando o alarme!__
 
-Este vídeo é uma extensão da documentação e serve como exemplo do funcionamento: [Documentação do Sistema de Segurança - HC-SR04 + notificação por e-mail.]()
+Este vídeo é uma extensão da documentação e serve como exemplo do funcionamento: [Documentação do Sistema de Segurança - HC-SR04 + notificação por e-mail.](https://youtu.be/MY-hK56yuso)
 
 *Recomendo que assita o vídeo acima!*
