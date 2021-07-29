@@ -6,12 +6,12 @@ License: MIT.
 *********************************************************************
 
 Para usar esse script corretamente:
-LEIA A DOCUMENTAÇÃO EM github.com/P-py/arduino/base_com_emailnotify.
+LEIA A DOCUMENTAÇÃO EM github.com/P-py/Arduino/base_com_emailnotify.
 
 """
 
-import smtplib
-from email.message import EmailMessage
+import smtplib #SPara envio do email
+from email.message import EmailMessage #Para compor a mensagem de e-mail
 
 def email_send(subject, body, to):
     #Create the message and sets the body/content of it.
@@ -30,6 +30,7 @@ def email_send(subject, body, to):
     POR FAVOR, LEIA A DOCUMENTAÇÃO EM github.com/P-py/arduino/base_com_emailnotify.
     POR FAVOR, LEIA A DOCUMENTAÇÃO EM github.com/P-py/arduino/base_com_emailnotify.
     """
+    
     user = "###"
     password = "###"
     message['from'] = user
