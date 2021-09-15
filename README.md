@@ -2,7 +2,7 @@
 
 *Copyright (c) 2021 Pedro Salviano Santos*
 
-![](../images/03a05b95-46b8-4ebe-bbd9-969ca8a50e0b.png)
+![](images/03a05b95-46b8-4ebe-bbd9-969ca8a50e0b.png)
 
 *__Note:__ this is the portuguese (pt-BR) version of the DOCS, if you want to read it in english (en-US), please translate it.*
 
