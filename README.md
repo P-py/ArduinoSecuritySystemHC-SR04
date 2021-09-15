@@ -2,6 +2,8 @@
 
 *Copyright (c) 2021 Pedro Salviano Santos*
 
+![](../images/03a05b95-46b8-4ebe-bbd9-969ca8a50e0b.png)
+
 *__Note:__ this is the portuguese (pt-BR) version of the DOCS, if you want to read it in english (en-US), please translate it.*
 
 Esse projeto foi inteiramente produzido por Pedro Salviano Santos e todos os direitos são do mesmo, a licença usada aqui é MIT, então caso queira compartilhar é possível, apenas faça isso corretamente, utilizando as métricas de "copyright" da licença.
