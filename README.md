@@ -1,5 +1,7 @@
 # Sistema de segurança - HC-SR04 + Notificação em e-mail
 
+##### DESCONTINUADO - Esse repositório não receberá novas atualizações.
+
 *Copyright (c) 2021 Pedro Salviano Santos*
 
 ![](images/03a05b95-46b8-4ebe-bbd9-969ca8a50e0b.png)
